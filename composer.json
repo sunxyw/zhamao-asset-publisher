@@ -1,4 +1,19 @@
 {
+    "name": "sunxyw/asset-publisher",
+    "description": "Asset Publisher for zhamao/framework",
+    "keywords": [
+        "asset",
+        "publisher",
+        "zhamao",
+        "framework"
+    ],
+    "authors": [
+        {
+            "name": "Sunxyw",
+            "email": "dev@sunxyw.xyz"
+        }
+    ],
+    "type": "library",
     "require": {
         "zhamao/framework": "^3.0"
     },
